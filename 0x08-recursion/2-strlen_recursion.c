@@ -5,7 +5,7 @@
  *
  * Return: The length of the string.
  */
-int _strlen_recursion(car *s)
+int _strlen_recursion(char *s)
 {
 	int longit = 0;
 	if (*s)
